@@ -22,7 +22,28 @@
       "months_to_renew_support": "12",
       "sme_email": "Tadd.Teese@memento.net.au",
       "vendor_phone": "+351 592 522 0677",
-      "investment_number": "485"
+      "investment_number": "485",
+      "integrations": [
+        {
+          "id": "int-097",
+          "name": "INT-097",
+          "categoryId": "3bdb7133-46fe-4c31-a5ec-9910379cbf29",
+          "description": "Morbi non quam nec dui luctus rutrum. Nulla tellus.",
+          "sourceApplicationId": "wrapsafe",
+          "targetApplicationId": "veribet",
+          "logical_server": "A2A",
+          "status_color": "#00FF00",
+          "pattern": "Countent Based Router",
+          "golive_date": "24/5/12",
+          "sme_name": "Matelda Nuss",
+          "datacentre": "Dandenong",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "mnussf@memento.net.au",
+          "complexity": "Low",
+          "last_deployment_date": "6/7/17"
+        }
+      ]
     }
   ]
 }
