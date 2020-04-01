@@ -29,7 +29,6 @@
           "name": "INT-097",
           "categoryId": "3bdb7133-46fe-4c31-a5ec-9910379cbf29",
           "description": "Morbi non quam nec dui luctus rutrum. Nulla tellus.",
-          "sourceApplicationId": "wrapsafe",
           "targetApplicationId": "veribet",
           "logical_server": "A2A",
           "status_color": "#00FF00",
